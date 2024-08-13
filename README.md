@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gogoiaba
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning programming logic
+- 🌱 I’m currently learning javascript, html and css
 - 💞️ I’m looking to collaborate on study groups
 - 📫 How to reach me https://instragr.am/igorsssa
 - 😄 Pronouns: he/him
