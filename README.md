@@ -1,13 +1,12 @@
-# 👋 Hi, I’m Igor  
+### Igor Signori de Souza Sá — he/him
 
-I’m a **bank professional currently transitioning into Front-End Development**: a journey that blends logic with human connection.  
+Developer at Caixa Econômica Federal, working on systems for the Logistics & Supplies department.
 
-After years working with people and processes, I discovered in code the same spark I find in music: the harmony between structure and emotion.  
-Now, I’m focused on mastering **JavaScript, HTML, and CSS**, while building projects that reflect both functionality and creativity.  
+**Core stack:** JavaScript · HTML · CSS · Python
 
-💡 I believe technology should be intuitive, inclusive, and built with empathy.  
-🎯 My goal is to keep learning, collaborating, and creating digital experiences that truly make sense for people.  
-🎤 **Fun fact:** when I’m not coding, I’m probably singing. I’m a tenor in a choir!
+**Also in my toolbox:** PHP · SQL Server · Generative AI & prompt engineering
 
-📫 **Let’s connect:** [instagram.com/igorsssa](https://instagram.com/igorsssa)  
-😄 **Pronouns:** he/him  
+Came to code from an unusual door: a Languages & Literature degree and years teaching English. Turns out naming things well, explaining clearly, and caring about the reader are the whole job.
+
+📍 Bauru, Brazil
+📫 [instagram.com/igorsssa](https://instagram.com/igorsssa)
